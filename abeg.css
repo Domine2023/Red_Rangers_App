@@ -1,0 +1,49 @@
+h1, h2 {
+    text-align: center;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+.power{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    
+}
+  hr{
+    height: 5px;
+    background-color: brown;
+    border-color: brown;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:-25px;
+  }
+  .Zord {
+    text-align: right;
+    width: 80%;
+  }
+   h1, h2 {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   }
+   .Legacy{
+    width: 80%;
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    text-align: left;
+   }
+   body{
+    background-image:url(./download\ \(23\).jpg) ;
+    font-family: sans-serif;
+    padding: 20px;
+   }
+    p {
+    text-align: center;
+   }
